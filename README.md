@@ -1,0 +1,5 @@
+PROJECT NAME : EMPLOYEE LIST
+
+TO RUN THIS PROJECT 
+STEP1 - npm install 
+STEP2 - npm start
