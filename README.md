@@ -1,5 +1,12 @@
 PROJECT NAME : EMPLOYEE LIST
 
-TO RUN THIS PROJECT 
-STEP1 - npm install 
-STEP2 - npm start
+TO RUN THIS PROJECT :
+FOR BACKEND :
+cd backend 
+npm install
+npm start
+FOR FRONTEND :
+cd frontend
+npm install 
+npm start
+
